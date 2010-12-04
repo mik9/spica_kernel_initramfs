@@ -85,8 +85,9 @@ loglevel 3
     write /proc/sys/kernel/panic_on_oops 1
     write /proc/sys/kernel/hung_task_timeout_secs 0
     write /proc/cpu/alignment 4
-    write /proc/sys/kernel/sched_latency_ns 10000000
-    write /proc/sys/kernel/sched_wakeup_granularity_ns 2000000
+    write /proc/sys/kernel/sched_latency_ns 4000000
+    write /proc/sys/kernel/sched_wakeup_granularity_ns 1000000
+    write /proc/sys/kernel/sched_min_granularity_ns 800000
     write /proc/sys/kernel/sched_compat_yield 1
     write /proc/sys/kernel/sched_child_runs_first 0
 
@@ -320,6 +321,10 @@ on boot
 
     write /proc/sys/vm/overcommit_memory 1
     write /proc/sys/vm/min_free_order_shift 4
+    write /proc/sys/vm/swappiness 0
+    write /proc/sys/vm/dirty_ratio 10
+    write /proc/sys/vm/vfs_cache_pressure 100
+    write /proc/sys/vm/min_free_kbytes 4096
     write /sys/module/lowmemorykiller/parameters/minfree 1536,2048,4096,5120,5632,6144
 
     # Set init its forked children's oom_adj.
