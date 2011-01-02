@@ -1,75 +1,77 @@
 dir /lib 0755 0 0
 dir /lib/modules 0755 0 0
-file /lib/modules/crc32.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/crc32.ko 0644 0 0
-file /lib/modules/dhd.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/dhd.ko 0644 0 0
-file /lib/modules/rfs.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/rfs.ko 0644 0 0
-file /lib/modules/s3c_g3d.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_g3d.ko 0644 0 0
-file /lib/modules/s3c_cmm.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_cmm.ko 0644 0 0
-file /lib/modules/s3c_camera.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_camera.ko 0644 0 0
-file /lib/modules/stgloc /Volumes/dev/i5700/linux/initramfs/lib/modules/stgloc 0644 0 0
-file /lib/modules/dpram.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/dpram.ko 0644 0 0
-file /lib/modules/s3c_rotator.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_rotator.ko 0644 0 0
-file /lib/modules/xsr_stl.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/xsr_stl.ko 0644 0 0
-file /lib/modules/s3c_jpeg.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_jpeg.ko 0644 0 0
-file /lib/modules/s3c_g2d_driver.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_g2d_driver.ko 0644 0 0
-file /lib/modules/param.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/param.ko 0644 0 0
-file /lib/modules/xsr.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/xsr.ko 0644 0 0
-file /lib/modules/multipdp.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/multipdp.ko 0644 0 0
-file /lib/modules/s3c_pp.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_pp.ko 0644 0 0
-file /lib/modules/s3c_mfc.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/s3c_mfc.ko 0644 0 0
-file /lib/modules/vibrator.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/vibrator.ko 0644 0 0
-file /lib/modules/xsr_debug.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/xsr_debug.ko 0644 0 0
-file /lib/modules/bnep.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/bnep.ko 0644 0 0
-file /lib/modules/tun.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/tun.ko 0644 0 0
-file /lib/modules/cifs.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/cifs.ko 0644 0 0
-file /lib/modules/qt5480.ko /Volumes/dev/i5700/linux/initramfs/lib/modules/qt5480.ko 0644 0 0
-file /init.rc /Volumes/dev/i5700/linux/initramfs/init.rc 0644 0 0
+file /lib/modules/crc32.ko /home/mik/android/kernel/initramfs/lib/modules/crc32.ko 0644 0 0
+file /lib/modules/dhd.ko /home/mik/android/kernel/initramfs/lib/modules/dhd.ko 0644 0 0
+file /lib/modules/rfs.ko /home/mik/android/kernel/initramfs/lib/modules/rfs.ko 0644 0 0
+file /lib/modules/s3c_g3d.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_g3d.ko 0644 0 0
+file /lib/modules/s3c_cmm.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_cmm.ko 0644 0 0
+file /lib/modules/s3c_camera.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_camera.ko 0644 0 0
+file /lib/modules/stgloc /home/mik/android/kernel/initramfs/lib/modules/stgloc 0644 0 0
+file /lib/modules/dpram.ko /home/mik/android/kernel/initramfs/lib/modules/dpram.ko 0644 0 0
+file /lib/modules/s3c_rotator.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_rotator.ko 0644 0 0
+file /lib/modules/xsr_stl.ko /home/mik/android/kernel/initramfs/lib/modules/xsr_stl.ko 0644 0 0
+file /lib/modules/s3c_jpeg.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_jpeg.ko 0644 0 0
+file /lib/modules/s3c_g2d_driver.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_g2d_driver.ko 0644 0 0
+file /lib/modules/param.ko /home/mik/android/kernel/initramfs/lib/modules/param.ko 0644 0 0
+file /lib/modules/xsr.ko /home/mik/android/kernel/initramfs/lib/modules/xsr.ko 0644 0 0
+file /lib/modules/multipdp.ko /home/mik/android/kernel/initramfs/lib/modules/multipdp.ko 0644 0 0
+file /lib/modules/s3c_pp.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_pp.ko 0644 0 0
+file /lib/modules/s3c_mfc.ko /home/mik/android/kernel/initramfs/lib/modules/s3c_mfc.ko 0644 0 0
+file /lib/modules/vibrator.ko /home/mik/android/kernel/initramfs/lib/modules/vibrator.ko 0644 0 0
+file /lib/modules/xsr_debug.ko /home/mik/android/kernel/initramfs/lib/modules/xsr_debug.ko 0644 0 0
+file /lib/modules/bnep.ko /home/mik/android/kernel/initramfs/lib/modules/bnep.ko 0644 0 0
+file /lib/modules/tun.ko /home/mik/android/kernel/initramfs/lib/modules/tun.ko 0644 0 0
+file /lib/modules/cifs.ko /home/mik/android/kernel/initramfs/lib/modules/cifs.ko 0644 0 0
+file /lib/modules/qt5480.ko /home/mik/android/kernel/initramfs/lib/modules/qt5480.ko 0644 0 0
+file /lib/modules/qt5480st.ko /home/mik/android/kernel/initramfs/lib/modules/qt5480st.ko 0644 0 0
+file /lib/modules/qt5480mt1.ko /home/mik/android/kernel/initramfs/lib/modules/qt5480mt1.ko 0644 0 0
+file /init.rc /home/mik/android/kernel/initramfs/init.rc 0644 0 0
 slink /etc /system/etc 0777 0 0
 dir /sys 0755 0 0
-file /sys/stgloc /Volumes/dev/i5700/linux/initramfs/sys/stgloc 0644 0 0
-file /recovery.rc /Volumes/dev/i5700/linux/initramfs/recovery.rc 0644 0 0
-file /recovery_hardkey.rc /Volumes/dev/i5700/linux/initramfs/recovery_hardkey.rc 0644 0 0
-file /init /Volumes/dev/i5700/linux/initramfs/init 0755 0 0
+file /sys/stgloc /home/mik/android/kernel/initramfs/sys/stgloc 0644 0 0
+file /recovery.rc /home/mik/android/kernel/initramfs/recovery.rc 0644 0 0
+file /recovery_hardkey.rc /home/mik/android/kernel/initramfs/recovery_hardkey.rc 0644 0 0
+file /init /home/mik/android/kernel/initramfs/init 0755 0 0
 dir /sbin 0755 0 0
-file /sbin/su /Volumes/dev/i5700/linux/initramfs/sbin/su 6755 0 0
-file /sbin/recovery /Volumes/dev/i5700/linux/initramfs/sbin/recovery 0755 0 0
-file /sbin/adbd /Volumes/dev/i5700/linux/initramfs/sbin/adbd 0755 0 0
-file /sbin/adbd2 /Volumes/dev/i5700/linux/initramfs/sbin/adbd2 0755 0 0
-file /sbin/ash /Volumes/dev/i5700/linux/initramfs/sbin/ash 0755 0 0
-file /sbin/fix_permissions /Volumes/dev/i5700/linux/initramfs/sbin/fix_permissions 0755 0 0
-file /sbin/nandroid-md5.sh /Volumes/dev/i5700/linux/initramfs/sbin/nandroid-md5.sh 0755 0 0
-file /sbin/remount /Volumes/dev/i5700/linux/initramfs/sbin/remount 0755 0 0
+file /sbin/su /home/mik/android/kernel/initramfs/sbin/su 6755 0 0
+file /sbin/recovery /home/mik/android/kernel/initramfs/sbin/recovery 0755 0 0
+file /sbin/adbd /home/mik/android/kernel/initramfs/sbin/adbd 0755 0 0
+file /sbin/adbd2 /home/mik/android/kernel/initramfs/sbin/adbd2 0755 0 0
+file /sbin/ash /home/mik/android/kernel/initramfs/sbin/ash 0755 0 0
+file /sbin/fix_permissions /home/mik/android/kernel/initramfs/sbin/fix_permissions 0755 0 0
+file /sbin/nandroid-md5.sh /home/mik/android/kernel/initramfs/sbin/nandroid-md5.sh 0755 0 0
+file /sbin/remount /home/mik/android/kernel/initramfs/sbin/remount 0755 0 0
 dir /res 0755 0 0
 dir /res/images 0755 0 0
 
-file /res/images/indeterminate1.png /Volumes/dev/i5700/linux/initramfs/res/images/indeterminate1.png 0644 0 0
-file /res/images/indeterminate2.png /Volumes/dev/i5700/linux/initramfs/res/images/indeterminate2.png 0644 0 0
-file /res/images/indeterminate3.png /Volumes/dev/i5700/linux/initramfs/res/images/indeterminate3.png 0644 0 0
-file /res/images/indeterminate4.png /Volumes/dev/i5700/linux/initramfs/res/images/indeterminate4.png 0644 0 0
-file /res/images/indeterminate5.png /Volumes/dev/i5700/linux/initramfs/res/images/indeterminate5.png 0644 0 0
-file /res/images/indeterminate6.png /Volumes/dev/i5700/linux/initramfs/res/images/indeterminate6.png 0644 0 0
-file /res/images/icon_error.png /Volumes/dev/i5700/linux/initramfs/res/images/icon_error.png 0644 0 0
-file /res/images/icon_installing.png /Volumes/dev/i5700/linux/initramfs/res/images/icon_installing.png 0644 0 0
-file /res/images/progress_fill.png /Volumes/dev/i5700/linux/initramfs/res/images/progress_fill.png 0644 0 0
-file /res/images/progress_empty.png /Volumes/dev/i5700/linux/initramfs/res/images/progress_empty.png 0644 0 0
+file /res/images/indeterminate1.png /home/mik/android/kernel/initramfs/res/images/indeterminate1.png 0644 0 0
+file /res/images/indeterminate2.png /home/mik/android/kernel/initramfs/res/images/indeterminate2.png 0644 0 0
+file /res/images/indeterminate3.png /home/mik/android/kernel/initramfs/res/images/indeterminate3.png 0644 0 0
+file /res/images/indeterminate4.png /home/mik/android/kernel/initramfs/res/images/indeterminate4.png 0644 0 0
+file /res/images/indeterminate5.png /home/mik/android/kernel/initramfs/res/images/indeterminate5.png 0644 0 0
+file /res/images/indeterminate6.png /home/mik/android/kernel/initramfs/res/images/indeterminate6.png 0644 0 0
+file /res/images/icon_error.png /home/mik/android/kernel/initramfs/res/images/icon_error.png 0644 0 0
+file /res/images/icon_installing.png /home/mik/android/kernel/initramfs/res/images/icon_installing.png 0644 0 0
+file /res/images/progress_fill.png /home/mik/android/kernel/initramfs/res/images/progress_fill.png 0644 0 0
+file /res/images/progress_empty.png /home/mik/android/kernel/initramfs/res/images/progress_empty.png 0644 0 0
 
 dir /system 0755 0 0
 dir /system/etc 0755 0 0
-file /system/etc/ld.so.cache /Volumes/dev/i5700/linux/initramfs/system/etc/ld.so.cache 0644 0 0
+file /system/etc/ld.so.cache /home/mik/android/kernel/initramfs/system/etc/ld.so.cache 0644 0 0
 dir /proc 0755 0 0
-file /proc/stgloc /Volumes/dev/i5700/linux/initramfs/proc/stgloc 0644 0 0
+file /proc/stgloc /home/mik/android/kernel/initramfs/proc/stgloc 0644 0 0
 dir /dev 0755 0 0
-file /dev/stgloc /Volumes/dev/i5700/linux/initramfs/dev/stgloc 0644 0 0
+file /dev/stgloc /home/mik/android/kernel/initramfs/dev/stgloc 0644 0 0
 dir /tmp 0755 0 0
-file /tmp/s3c-keypad-rev0020.kl /Volumes/dev/i5700/linux/initramfs/tmp/s3c-keypad-rev0020.kl 0644 0 0
-file /tmp/s3c-keypad-rev0000.kcm.bin /Volumes/dev/i5700/linux/initramfs/tmp/s3c-keypad-rev0000.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0020.kcm.bin /Volumes/dev/i5700/linux/initramfs/tmp/s3c-keypad-rev0020.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0000.kl /Volumes/dev/i5700/linux/initramfs/tmp/s3c-keypad-rev0000.kl 0644 0 0
-file /tmp/s3c-keypad-rev0010.kl /Volumes/dev/i5700/linux/initramfs/tmp/s3c-keypad-rev0010.kl 0644 0 0
+file /tmp/s3c-keypad-rev0020.kl /home/mik/android/kernel/initramfs/tmp/s3c-keypad-rev0020.kl 0644 0 0
+file /tmp/s3c-keypad-rev0000.kcm.bin /home/mik/android/kernel/initramfs/tmp/s3c-keypad-rev0000.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0020.kcm.bin /home/mik/android/kernel/initramfs/tmp/s3c-keypad-rev0020.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0000.kl /home/mik/android/kernel/initramfs/tmp/s3c-keypad-rev0000.kl 0644 0 0
+file /tmp/s3c-keypad-rev0010.kl /home/mik/android/kernel/initramfs/tmp/s3c-keypad-rev0010.kl 0644 0 0
 dir /tmp/bootchart 0755 0 0
-file /tmp/bootchart/stgloc /Volumes/dev/i5700/linux/initramfs/tmp/bootchart/stgloc 0644 0 0
-file /tmp/sec_headset.kl /Volumes/dev/i5700/linux/initramfs/tmp/sec_headset.kl 0755 0 0
-file /tmp/s3c-keypad-rev0010.kcm.bin /Volumes/dev/i5700/linux/initramfs/tmp/s3c-keypad-rev0010.kcm.bin 0666 0 0
-file /fota.rc /Volumes/dev/i5700/linux/initramfs/fota.rc 0644 0 0
-file /default.prop /Volumes/dev/i5700/linux/initramfs/default.prop 0644 0 0
-file /init.GT-I5700.rc /Volumes/dev/i5700/linux/initramfs/init.GT-I5700.rc 0644 0 0
+file /tmp/bootchart/stgloc /home/mik/android/kernel/initramfs/tmp/bootchart/stgloc 0644 0 0
+file /tmp/sec_headset.kl /home/mik/android/kernel/initramfs/tmp/sec_headset.kl 0755 0 0
+file /tmp/s3c-keypad-rev0010.kcm.bin /home/mik/android/kernel/initramfs/tmp/s3c-keypad-rev0010.kcm.bin 0666 0 0
+file /fota.rc /home/mik/android/kernel/initramfs/fota.rc 0644 0 0
+file /default.prop /home/mik/android/kernel/initramfs/default.prop 0644 0 0
+file /init.GT-I5700.rc /home/mik/android/kernel/initramfs/init.GT-I5700.rc 0644 0 0
